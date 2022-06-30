@@ -4,7 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/giorg/AndroidStudioProjects/Database/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1275" />
+        <entry key="..\:/Users/giorg/AndroidStudioProjects/Database/app/src/main/res/drawable/ic_person.xml" value="0.1275" />
         <entry key="..\:/Users/giorg/AndroidStudioProjects/Database/app/src/main/res/layout/activity_main.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/giorg/AndroidStudioProjects/Database/app/src/main/res/layout/activity_user_list.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/giorg/AndroidStudioProjects/Database/app/src/main/res/layout/dialog.xml" value="0.18" />
+        <entry key="..\:/Users/giorg/AndroidStudioProjects/Database/app/src/main/res/layout/user.xml" value="0.22447916666666667" />
       </map>
     </option>
   </component>

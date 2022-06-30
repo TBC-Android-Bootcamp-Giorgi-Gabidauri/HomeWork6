@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Database</string>
-    <string name="active_users">Active Users:</string>
-    <string name="deleted_users">Deleted Users:</string>
+    <string name="active_users">Active Users</string>
+    <string name="deleted_users">Deleted Users</string>
     <string name="firstname">FirstName</string>
     <string name="lastname">LastName</string>
     <string name="age">Age</string>
@@ -9,4 +9,6 @@
     <string name="add_user">Add User</string>
     <string name="remove_user">Remove User</string>
     <string name="update_user">Update User</string>
+    <string name="see_users">See Users</string>
+    <string name="back">back</string>
 </resources>

@@ -1,6 +1,7 @@
 package com.gabo.database
 
 import android.annotation.SuppressLint
+import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.room.Room
@@ -55,6 +56,9 @@ class MainActivity : AppCompatActivity() {
                 )
                 tvActiveUsers.text = "Active users: ${db.userDao().getActiveUsers().size}"
                 tvDeletedUsers.text = "Deleted users: ${db.userDao().getDeletedUsers().size}"
+            }
+            btnSeeList.setOnClickListener {
+                startActivity(Intent(this@MainActivity, UserListActivity::class.java))
             }
         }
     }
